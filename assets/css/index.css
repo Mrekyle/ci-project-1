@@ -3,15 +3,21 @@
 * {
     margin: 0 auto;
     padding: 0;
+    font-family: Play, Lato, sans-serif;
 }
 
 h1, h2 {
-    font-family:  Play, Oswald, Lato sans-serif;
+    font-family:  Play, Oswald, Lato, sans-serif;
     color: #252525;
 }
 
 a:hover {
     text-decoration: none;
+}
+
+hr {
+    border: 1px solid #252525;
+    width: 75%;
 }
 
 /* Name */
@@ -25,7 +31,7 @@ a:hover {
 /* Main Nav */
 
 #menu {
-    margin-top: -80px;
+    margin-top: -45px;
     float: right;
     letter-spacing: 4px;
 }
@@ -49,6 +55,14 @@ a:hover {
     border-bottom: 2px solid #3a3a3a;
 }
 
+#name, #menu {
+    line-height: 40px;
+}
+
+#menu {
+    clear: both;
+}
+
 /* Main Image Container */
 
 #main-img-outer {
@@ -64,8 +78,22 @@ a:hover {
     background-size: cover;
 }
 
-#name, #menu {
-    line-height: 75px;
+/* Main Page Text */
+
+#txt-container {
+    width: 75%;
+}
+
+#title-txt {
+    text-transform: uppercase;
+    text-align: center;
+    size: 280%;
+}
+
+.main-txt {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 180%;
 }
 
 /* Review Section */
