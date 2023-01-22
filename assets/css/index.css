@@ -98,6 +98,29 @@ hr {
 
 /* Review Section */
 
+#review-container {
+
+}
+
 .review-img {
-    
+
+}
+
+/* Footer */
+
+footer {
+    height: 300px;
+    background-color: #252525;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    clear: both;
+}
+
+#copywrite {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: -10px;
 }
