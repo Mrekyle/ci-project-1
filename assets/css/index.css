@@ -120,3 +120,44 @@ footer {
     color: white;
     display: flex;
 }
+
+.footer-header {
+    font-size: 220%;
+    text-align: center;
+}
+
+.links li {
+    list-style-type: none;
+    line-height: 40px;
+    font-size: 130%;
+    text-align: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+}
+
+.links a:hover {
+    color: turquoise;
+}
+
+.social-link {
+    padding-top: 45px;
+}
+
+.social-link li {
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+}
+
+.social-link i {
+    padding-top: 40px;
+    color: white;
+    font-size: 240%;
+}
+
+.social-link i:hover {
+    color: turquoise;
+}
