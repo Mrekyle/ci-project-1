@@ -98,7 +98,19 @@ hr {
 
 /* Review Section */
 
+#review-container {
+    padding-top: 20px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: space-around;
+}
 
+.review-1, .review-2, .review-3, .review-4 {
+    max-width: 300px;
+    text-align: center;
+    font-size: 110%;
+    line-height: 25px;
+}
 
 /* Footer */
 
@@ -107,14 +119,4 @@ footer {
     background-color: #252525;
     color: white;
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    clear: both;
-}
-
-#copywrite {
-    background-color: black;
-    color: white;
-    text-align: center;
-    margin-bottom: -10px;
 }
