@@ -177,11 +177,11 @@ footer {
 
 .contact-form {
     font-family: Play, sans-serif;
-    margin: 50px 10% 0 0;
+    margin: 30px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 700px;
-    height: 600px;
+    height: 630px;
     position: absolute;
     left: 10%;
     padding: 20px;
@@ -193,7 +193,15 @@ form > label {
 }
 
 .submit {
-
+    letter-spacing: 3px;
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 12px 32px 12px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #f16c6b;
+    color: #fafafa;
+    display: block
 }
 
 .our-info {
