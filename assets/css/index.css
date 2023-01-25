@@ -209,11 +209,6 @@ form > label {
     color: rgba(176, 29, 26, 1);
 }
 
-.our-info {
-    float: right;
-    margin-top: 100px;
-}
-
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -237,4 +232,26 @@ form > label {
 #transmission-title {
     color: whitesmoke;
     size: 30px;
+}
+
+.our-info-container {
+    float: right;
+    margin-top: 100px;
+    margin-right: -150px;
+    background-color: rgba(60, 60, 60, 0.6);
+    width: 350px;
+    height: 520px;
+    padding: 30px 30px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+#our-info, h4, p {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#our-info hr {
+    width: 180px;
+    border: 1px solid white;
 }
