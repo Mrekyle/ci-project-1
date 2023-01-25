@@ -176,6 +176,7 @@ footer {
 }
 
 .contact-form {
+    font-family: Play, sans-serif;
     margin: 50px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
@@ -184,6 +185,11 @@ footer {
     position: absolute;
     left: 10%;
     padding: 20px;
+}
+
+form > label {
+    font-family: Play;
+    letter-spacing: 2px;
 }
 
 .submit {
