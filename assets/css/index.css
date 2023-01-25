@@ -397,3 +397,85 @@ iframe {
 #yt-video {
     padding-bottom: 20px;
 }
+
+/* Media Querys */
+
+@media screen and (max-width: 1650px) {
+
+    .review-container {
+        column-count: 2;
+    }
+
+    #lesson-card {
+        max-width: 60px;
+        padding: 10px;
+    }
+    
+}
+
+@media screen and (max-width: 1300px) {
+
+    iframe {
+        max-width: 800px;
+    }
+
+    #manual-container, #auto-container, #intensive-container {
+        display: block;
+        max-width: 50%;
+        height: auto;
+    }
+
+}
+
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-top: 20px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px
+    }
+
+    iframe {
+        max-width: 400px;
+        max-height: 450px;
+    }
+
+    #main-img {
+        margin-top: 80px;
+    }
+
+    .choose-us > h3 {
+        font-size: 40px;
+        padding-top: 40px;
+    }
+
+    .choose-us > p {
+        font-size: 20px;
+    }
+
+    .offer-card > p {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    
+    #links {
+
+    }
+
+    iframe {
+        max-width: 300px;
+        max-height: 400px;
+    }
+
+    .choose-us > p {
+        font-size: 90%;
+    }
+
+    .offer-card > p {
+        font-size: 105x;
+    }
+}
