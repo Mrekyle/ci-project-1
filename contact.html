@@ -35,9 +35,10 @@
             <div class="form-container">
                 <form class="contact-form" method="post" action="https://formdump.codeinstitute.net/">
                     <h2 id="form-title">Contact Us:</h2>
-                    <label for="fname">Full Name</label>
+                    <p>Required: *</p>
+                    <label for="fname">Full Name *</label>
                     <input class="text-input" name="fname" id="fname" type="text" placeholder="Full Name" required>
-                    <label for="location">Location</label>
+                    <label for="location">Location *</label>
                     <input class="text-input" name="location" list="locations" id="location" type="text" placeholder="Your Location" required>
                         <datalist id="locations">
                             <option value="Colchester"></option>
@@ -45,13 +46,13 @@
                             <option value="Braintree"></option>
                             <option value="Clacton-on-sea"></option>
                         </datalist>
-                    <label for="email">Email Address</label>
+                    <label for="email">Email Address *</label>
                     <input class="text-input" name="email" id="email" type="email" placeholder="Your Email Address" required>
-                    <label for="number">Phone Number</label>
+                    <label for="number">Phone Number *</label>
                     <input class="text-input" name="number" id="number" type="text" placeholder="Phone Number" required>
                     <label for="message">Any extra information</label>
                     <input class="message text-input" name="extra-info" id="message" placeholder="Type your message here" type="textarea">
-                    <h3 id="transmission-title">Your prefered transmission</h3>
+                    <h3 id="transmission-title">Your prefered transmission *</h3>
                     <label for="transmission">Manual </label>
                     <input class="transmission-radio" type="radio" name="transmission" id="transmission" required>
                     <label for="transmission">Automatic </label>
