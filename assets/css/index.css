@@ -234,6 +234,10 @@ form > label {
     size: 30px;
 }
 
+.transmission-radio {
+    display: inline-block;
+}
+
 .our-info-container {
     float: right;
     margin-top: 100px;
@@ -246,7 +250,7 @@ form > label {
     letter-spacing: 1px;
 }
 
-#our-info, h4, p {
+#our-info, h4 {
     color: whitesmoke;
     font-size: 20px;
 }
@@ -254,4 +258,41 @@ form > label {
 #our-info hr {
     width: 180px;
     border: 1px solid white;
+}
+
+/* Lesson Pricing Page */
+
+.card-title {
+    text-align: center;
+}
+
+#manual-container {
+    background-color: rgba(192, 193, 194, 1);
+    max-width: 85%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#auto-container {
+    background-color: aqua;
+    max-width: 85%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#intensive-container {
+    background-color: aquamarine;
+    max-width: 85%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.m-1, .m-2, .m-3 {
+    max-width: 300px;
+    text-align: center;
+    font-size: 110%;
+    line-height: 25px;
 }
