@@ -206,7 +206,7 @@ form > label {
     font-size: 100%;
     background-color: rgba(176, 29, 26, 1);
     color: #fafafa;
-    display: block
+    display: block;
 }
 
 .submit:hover {
@@ -317,4 +317,45 @@ form > label {
 
 .m-2, .a-2, .i-2 {
     background-color: #F5F6F7FF;
+}
+
+/* What we offer page */
+
+.offer-card {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    max-width: 75%;
+    height: 280px;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 30px;
+}
+
+.offer-card > h4 {
+    font-size: 30px;
+}
+
+.offer-card > p {
+    font-size: 20px;
+}
+
+.intensive-button {
+    margin-top: 15px;
+}
+
+button {
+    border: none;
+}
+
+.intensive-button > a {
+    padding: 10px;
+    background-color: rgba(176, 29, 26, 1);
+    color: #fafafa;
+    display: block;
+    border-radius: 10px;
+}
+
+.intensive-button > a:hover {
+    background-color: #fafafa;
+    color: rgba(176, 29, 26, 1);
 }
