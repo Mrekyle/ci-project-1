@@ -359,3 +359,13 @@ button {
     background-color: #fafafa;
     color: rgba(176, 29, 26, 1);
 }
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+#yt-video {
+    padding-bottom: 20px;
+}
