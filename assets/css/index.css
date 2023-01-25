@@ -103,6 +103,7 @@ hr {
     padding-bottom: 100px;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .review-1, .review-2, .review-3, .review-4 {
@@ -110,6 +111,7 @@ hr {
     text-align: center;
     font-size: 110%;
     line-height: 25px;
+    padding-bottom: 25px;
 }
 
 /* Footer */
@@ -403,7 +405,7 @@ iframe {
 @media screen and (max-width: 1650px) {
 
     .review-container {
-        column-count: 2;
+        
     }
 
     #lesson-card {
@@ -466,10 +468,6 @@ iframe {
 }
 
 @media screen and (max-width: 550px) {
-    
-    #links {
-
-    }
 
     iframe {
         max-width: 300px;
