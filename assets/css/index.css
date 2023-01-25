@@ -402,11 +402,15 @@ iframe {
 
 /* Media Querys */
 
-@media screen and (max-width: 1650px) {
-
-    .review-container {
-        
+@media screen and (max-width: 1750px) {
+    
+    .our-info-container {
+        height: 300px;
     }
+    
+}
+
+@media screen and (max-width: 1650px) {
 
     #lesson-card {
         max-width: 60px;
