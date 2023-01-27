@@ -386,7 +386,9 @@ button {
     background-color: rgba(176, 29, 26, 1);
     color: #fafafa;
     display: block;
+    border: 1px solid black;
     border-radius: 10px;
+    width: 180px;
 }
 
 .intensive-button > a:hover {
