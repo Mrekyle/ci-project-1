@@ -407,6 +407,7 @@ iframe {
 /* Media Querys */
 
 @media screen and (max-width: 1900px) {
+
     .our-info-container {
         flex-wrap: wrap;
     }
@@ -436,6 +437,7 @@ iframe {
 }
 
 @media screen and (max-width: 950px) {
+
     #menu {
         clear: left;
         float: left;
@@ -485,12 +487,16 @@ iframe {
     }
 
     .offer-card > p {
-        font-size: 105x;
+        font-size: 105px;
     }
 }
 
 @media screen and (max-width: 450px) {
     
+    #menu {
+        font-size: 110%;
+    }
+
     .contact-form {
         height: 800px;
     }
@@ -510,5 +516,17 @@ iframe {
     
     #our-info {
         font-size: 15px;
+    }
+
+    .offer-card {
+        margin-bottom: 30px;
+    }
+
+    .choose-us {
+        font-size: 80%;
+    }
+    
+    .offer-card > p {
+        font-size: 80%;
     }
 }
