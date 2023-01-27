@@ -523,10 +523,19 @@ iframe {
     }
 
     .choose-us {
-        font-size: 80%;
+        font-size: 90%;
     }
     
+    .offer-card {
+        height: 300px;
+    }
     .offer-card > p {
-        font-size: 80%;
+        font-size: 90%;
+    }
+
+    .pricing-txt {
+        margin-top: -12px;
+        margin-bottom: -20px;
+        font-size: 90%;
     }
 }
