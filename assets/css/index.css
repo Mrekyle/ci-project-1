@@ -592,6 +592,7 @@ iframe {
 @media screen and (max-width: 300px) {
 
     #menu {
+        margin-bottom: 25px;
         font-size: 50%;
     }
 
