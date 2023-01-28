@@ -106,6 +106,10 @@ hr {
     flex-wrap: wrap;
 }
 
+.img-1, .img-2, .img-3, .img-4 {
+    max-width: 280px !important;
+}
+
 .review-1, .review-2, .review-3, .review-4 {
     max-width: 300px;
     text-align: center;
@@ -457,6 +461,7 @@ iframe {
 
     #main-img {
         margin-top: 80px;
+        height: 300px;
     }
 
     .choose-us > h3 {
@@ -521,6 +526,10 @@ iframe {
         margin-top: -30px;
         margin-left: 10%;
         margin-bottom: 20px;
+    }
+
+    .bg-img {
+        padding-top: 10px;
     }
 }
 
@@ -597,6 +606,7 @@ iframe {
     }
 
     .contact-img {
+        margin-top: 20px;
         height: 150px;
     }
 
