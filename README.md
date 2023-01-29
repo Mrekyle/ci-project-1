@@ -2,7 +2,13 @@
 
 Link to live project - [First Class Pass - CI Project One](https://mrekyle.github.io/ci-project-1//)
 
-First Class Pass is an imagined driving school serving the Colchester and surrounding areas. With the intention of the website to showcase what they do, to intice a potential student to sign on and to build more buisness. Either with students or hiring new instructors to work for them.
+### Project Goals
+
+First Class Pass is an imagined driving school serving Colchester and the surrounding areas. With the intention of the website to showcase what they do, to intice a potential student to sign on and to generate more buisness through the content on the website. Either with gaining new students or inticing potential new instructors to work for them through the training program or to intine qualified instructors to come work for them.
+
+### Target Audiance
+
+The initial target audiance for the project is young drivers aged between 16 to 18. With them researching a potential driving school to go with or to make a switch from another for various reasons. Although the intended audiance is new drivers, it is aso targeting parents of young drivers who wish to gift lessons for a birthday, people who need a refresher lesson, students who want an intensive course. As well as potential people who want to become a drving instructor them self. 
 
 <img alt="Responsive layout Testing" src="assets/readme-img/responsive-layout.png">
 
