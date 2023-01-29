@@ -38,7 +38,9 @@ First Class Pass is an imagined driving school serving the Colchester and surrou
 ## Features
 
 The current features that are used throughout the website.
+
 ### Navigation
+
 ![Navigation bar showcase](/assets/readme-img/nav-bar.png)
 The navigation has a simple layout that focuses on a simple design that it intuative for the user to be able to look and find the information that they are looking for.
 
@@ -113,6 +115,7 @@ With future pages planned
 - Contact form submitted page
 - Student area - for future features mentioned above
 - Teacher area - for future features mentioned above.
+
 ## Technology Used
 
 During the development of the website HMTL, CSS, Github and Gitpod were the main technologies that were used to build, develop and deploy the website.
@@ -139,9 +142,6 @@ Once development had finished the website was put through W3C html Validator, Ji
 ![HTML w3c Validator Pass](/assets/readme-img/w3c-validator.png)
 - HTML pass
 
-On the contact form the HTML validator it still is saying that it fails. This is due to multiple use of the same id. As this is what was taught in the Love Running project. I beleive this to be incorrect and that it would pass normally.
-
-![Contact form Validator fail](/assets/readme-img/w3cform-validator.png)
 ### Lighthouse
 
 ![Lighthouse Desktop Performance](/assets/readme-img/lh-desktop.png)
@@ -160,6 +160,7 @@ During the development process of the project there were a few bugs. Most of whi
 - contact form text input area had placeholder displaying in center of the area. Fixed by changing out the input to 'textarea'
 - In the footer the copywrite information was displaying under flex box rules. Meaning it wasnt aligning how intended. Fixed by removing from the flex item and addded into its own 'div' element.
 - Footer showing white bar underneath as not enough content to fill the page - Fixed by turning into a flex element forcing it to the bottom of the page.
+
 ## Deployment
 
 Deployment of the project was done by using Github Pages.
