@@ -173,7 +173,7 @@ During the project external items such as images and fonts were needed to add an
 
 ### Code
 
-No such code has been coppied and pasted into the project, all has been typed out. Although insipiration for some styling ws taken from the Love Running Project.
+No such code has been coppied and pasted into the project, all has been typed out. Although insipiration for some styling was taken from the Love Running Project.
 
 Stackoverflow was also used as a reference to help me fix ay minor issues that came up during the development of the project.
 
