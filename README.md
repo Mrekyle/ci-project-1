@@ -4,7 +4,7 @@ Link to live project - [First Class Pass - CI Project One](https://mrekyle.githu
 
 First Class Pass is an imagined driving school serving the Colchester and surrounding areas. With the intention of the website to showcase what they do, to intice a potential student to sign on and to build more buisness. Either with students or hiring new instructors to work for them.
 
-IMG of responsive screens here 
+<img alt="Responsive layout Testing" src="assets/readme-img/responsive-layout.png">
 
 ## Wireframes
 
@@ -31,9 +31,9 @@ IMG of responsive screens here
 5. Bugs
 6. Deployment
 7. Sources
+    - Code
     - Fonts
     - Images
-    - ...
 
 ## Features
 
