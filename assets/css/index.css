@@ -503,6 +503,10 @@ iframe {
         margin-left: 25%;
         margin-bottom: 20px;
     }
+
+    .bg-img {
+        padding-top: 10px;
+    }
 }
 
 @media screen and (max-width: 550px) {
@@ -596,6 +600,10 @@ iframe {
         margin: -10px;
         font-size: 110%;
     }
+
+    .bg-img {
+        padding-top: 30px;
+    }
 }
 
 @media screen and (max-width: 300px) {
@@ -606,7 +614,7 @@ iframe {
     }
 
     .contact-img {
-        margin-top: 40px;
+        margin-top: 20px;
         height: 150px;
     }
 
