@@ -203,15 +203,15 @@ Deployment of the project was done by using Github Pages.
 
 - Step one is to load up the repo on the github website and click on the settings pannel
 
-<img alt="Deployment stage 1" src="docs/readme-img/deployment-1.png" height="300px" width="400px">
+<img alt="Deployment stage 1" src="docs/readme-img/deployment-1.png">
 
 - Step two is to go to the click on the pages panel on the left hand side
 
-<img alt="Deployment stage 2" src="docs/readme-img/deployment-2.png" height="300px" width="400px">
+<img alt="Deployment stage 2" src="docs/readme-img/deployment-2.png">
 
 - Step three is to select to deploy the page from the main folder ensuring that the root folder folder is also selected
 
-<img alt="Deployment stage 3" src="docs/readme-img/deployment-3.png" height="300px" width="400px">
+<img alt="Deployment stage 3" src="docs/readme-img/deployment-3.png">
 
 Link to live project - [First Class Pass - CI Project One](https://mrekyle.github.io/ci-project-1//)
 
