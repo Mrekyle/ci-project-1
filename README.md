@@ -14,9 +14,16 @@ The initial target audiance for the project is young drivers aged between 16 to 
 
 ## Wireframes
 
+### Initial Home Page Concept
 <img alt="Initial home page Concept" src="assets/wireframes/home.jpg" height="300px" width="300px">
+
+### Initial Basic Page Layout
 <img alt="Initial basic page layout concent" src="assets/wireframes/basic-structure.jpg" height="300px" width="300px">
+
+### Initial Contact form layout
 <img alt="Initial contact form concept" src="assets/wireframes/contact-page.jpg" height="300px" width="300px">
+
+### Initial Mobile and Ipad design concept
 <img alt="Initial Ipad and Mobile design concept" src="assets/wireframes/iphone-ipad.jpg" height="300px" width="300px">
 
 
@@ -59,12 +66,14 @@ The navigation has a simple layout that focuses on a simple design that it intua
 
 ![Websites background image](/assets/readme-img/hero-img-md.jpg)
 - A background image that is appropriate to the web page's initial intention and gives an immediate visual que to what the intention of the website is for.
+- This image was chosen to give a first impresson that stands out and would stick in the users mind
 
 ### Recent Reviews 
 
 ![Recent reviews container](/assets/readme-img/review-section.jpg)
 
-- The recent reviews container includes an image and a breif review of the intended real world customer. Showcasing the drivings schools sucess.
+- The recent reviews container includes an image and a breif review of the intended real world customer. Showcasing the drivings schools success.
+- This was added to showcase what other students think of the driving school. To intice new students to join
 
 
 ### Footer
@@ -79,7 +88,9 @@ The navigation has a simple layout that focuses on a simple design that it intua
 
 ![Websites Lesson cards](/assets/readme-img/lesson-card.png)
 
-- Lesson cards display a breif overview of what different type of lessons are offered and what the school offers.
+- Lesson cards display a breif overview of what the school offers.
+- The intention is to tell the potential student what could happen during the lesson
+- It also displays the different types of lessons that are offered by the driving school
 
 ### Video 
 
@@ -91,17 +102,19 @@ The navigation has a simple layout that focuses on a simple design that it intua
 
 ![Lesson pricing cards](/assets/readme-img/price-card.png)
 
-- Lesson pricing cards are used to display the price of the lesson itself under different types, such as the manual transmission and the automatic transmission.
+- Lesson pricing cards are used to display the price of the lesson itself 
+- A brief peice of information about what the lesson entails
 
 ### Contact Form 
 
 ![Websites contact form](/assets/readme-img/contact-card.png)
 
-- The contact form was implemented to give the user of the site an easy way of contacting the school for potential lessons. Instead of having to go away to a seperate email application or call.
+- The contact form was implemented to give the user of the site an easy way of contacting the school for potential lessons. Instead of having to go away to a seperate email application or call
+- It allows the driving school to collect all information required from the student to speed up the process of getting them on the road
 
-### Future Features
+## Future Features
 
-Futures features of the website are to include:-
+Futures features of the website are to include
 - An online booking system with calander intergration - including personal preferences to best match the student to the driver
 - A driver profile system - Allowing the teacher to know where to go to pick up the student, preferences such as pronouns etc..
 - A progress/lesson tracker - once a certain skill has been mastered, the student and teacher will know whats coming next.
@@ -126,11 +139,27 @@ With future pages planned
 
 During the development of the website HMTL, CSS, Github and Gitpod were the main technologies that were used to build, develop and deploy the website.
 
+- HTML - Used to build the basic blocks and structure of the website
+- CSS - Used to add styling to the website to give it an appealing look to the user
+- Github - Used for version control, allowing the progress of the project to stay on track and progress
+- Gitpod - Used as a virtual development space, allowing development anywhere anytime
+- Github Pages - Used to deploy the project as a live website for all to see and use
+
 ## Site Testing
 
 Over the period of development the website went under multiple different periods of testing to get the right look, fit and feel for the intended user. 
 
 Once development had finished the website was put through W3C html Validator, Jigsaw CSS validator and Lighthouse Performance Validator on google chrome. 
+
+During the course of the development of the website I also performed manual testing myself such as
+
+- Checking the responsive design on different devices
+- Checking all the navigation links work
+- Checking all the external links go to where they say they go. Ensuring they open in a seperate tab
+- Ensuring all images have an 'alt' or 'title' attribute incase of error
+- Ensuring the video links correctly on multiple different devices.
+- Ensuring the contact form goes to the correct place (Love running form dump)
+- Ensuring the contact form doesnt let the user submit without filling out the required and correct intended information
 
 ### CSS
 
@@ -157,6 +186,7 @@ Once development had finished the website was put through W3C html Validator, Ji
 - Lighthourse mobile Performance
 
 The performance is low on the mobile version due to a browser extension that is installed on google chrome. Further inspection also shows towards slow loading time for the images due to their varying sizes and different file sizes.
+
 ## Bugs
 
 During the development process of the project there were a few bugs. Most of which were a small syntax error.
@@ -170,6 +200,18 @@ During the development process of the project there were a few bugs. Most of whi
 ## Deployment
 
 Deployment of the project was done by using Github Pages.
+
+- Step one is to load up the repo on the github website and click on the settings pannel
+
+<img alt="Deployment stage 1" src="assets/readme-img/deployment-1.png" height="300px" width="00px">
+
+- Step two is to go to the click on the pages panel on the left hand side
+
+<img alt="Deployment stage 2" src="assets/readme-img/deployment-2.png" height="300px" width="400px">
+
+- Step three is to select to deploy the page from the main folder ensuring that the root folder folder is also selected
+
+<img alt="Deployment stage 3" src="assets/readme-img/deployment-3.png" height="300px" width="400px">
 
 Link to live project - [First Class Pass - CI Project One](https://mrekyle.github.io/ci-project-1//)
 
@@ -187,11 +229,9 @@ Stackoverflow was also used as a reference to help me fix ay minor issues that c
 ### Fonts 
 
 Fonts used
-- Lato
-- Oswald
-- Play
-
-All fonts were from [Link to google fonts](https://fonts.google.com/about)
+- Lato [Lato font](https://fonts.google.com/?query=lato)
+- Oswald [Oswald Font](https://fonts.google.com/specimen/Oswald?query=oswald)
+- Play [Play font](https://fonts.google.com/specimen/Play?query=play)
 
 Font awesome icons were also used in parts of the project.
 
@@ -208,3 +248,9 @@ Pexels [A link to Pexels - Royalty free images](https://www.pexels.com/)
 Shutterstock [A link to Shutterstock - Royalty free images](https://www.shutterstock.com/search/passed-driving-test)
 
 Unsplash [A link to Unsplash - Royalty free images]( https://unsplash.com/photos/_c7haaSAcIg)
+
+### Video
+
+The video that was used in the project (How to drive) is from youtube. The origional owner of the content is a user called Conquer Driving.
+
+Youtube Video [The youtube video used in the project](https://www.youtube.com/watch?v=VIVaqt4VhKc&ab_channel=ConquerDriving)
