@@ -10,21 +10,21 @@ First Class Pass is an imagined driving school serving Colchester and the surrou
 
 The initial target audiance for the project is young drivers aged between 16 to 18. With them researching a potential driving school to go with or to make a switch from another for various reasons. Although the intended audiance is new drivers, it is aso targeting parents of young drivers who wish to gift lessons for a birthday, people who need a refresher lesson, students who want an intensive course. As well as potential people who want to become a drving instructor them self. 
 
-<img alt="Responsive layout Testing" src="assets/readme-img/responsive-layout.png">
+<img alt="Responsive layout Testing" src="docs/readme-img/responsive-layout.png">
 
 ## Wireframes
 
 ### Initial Home Page Concept
-<img alt="Initial home page Concept" src="assets/wireframes/home.jpg" height="300px" width="300px">
+<img alt="Initial home page Concept" src="docs/wireframes/home.jpg" height="300px" width="300px">
 
 ### Initial Basic Page Layout
-<img alt="Initial basic page layout concent" src="assets/wireframes/basic-structure.jpg" height="300px" width="300px">
+<img alt="Initial basic page layout concent" src="docs/wireframes/basic-structure.jpg" height="300px" width="300px">
 
 ### Initial Contact form layout
-<img alt="Initial contact form concept" src="assets/wireframes/contact-page.jpg" height="300px" width="300px">
+<img alt="Initial contact form concept" src="docs/wireframes/contact-page.jpg" height="300px" width="300px">
 
 ### Initial Mobile and Ipad design concept
-<img alt="Initial Ipad and Mobile design concept" src="assets/wireframes/iphone-ipad.jpg" height="300px" width="300px">
+<img alt="Initial Ipad and Mobile design concept" src="docs/wireframes/iphone-ipad.jpg" height="300px" width="300px">
 
 
 ### Table of contents 
@@ -54,7 +54,7 @@ The current features that are used throughout the website.
 
 ### Navigation
 
-![Navigation bar showcase](/assets/readme-img/nav-bar.png)
+![Navigation bar showcase](docs/readme-img/nav-bar.png)
 The navigation has a simple layout that focuses on a simple design that it intuative for the user to be able to look and find the information that they are looking for.
 
 - Featuring the page title, which links back to the home page when clicked.
@@ -64,13 +64,13 @@ The navigation has a simple layout that focuses on a simple design that it intua
 
 ### Hero Image
 
-![Websites background image](/assets/readme-img/hero-img-md.jpg)
+![Websites background image](docs/readme-img/hero-img-md.jpg)
 - A background image that is appropriate to the web page's initial intention and gives an immediate visual que to what the intention of the website is for.
 - This image was chosen to give a first impresson that stands out and would stick in the users mind
 
 ### Recent Reviews 
 
-![Recent reviews container](/assets/readme-img/review-section.jpg)
+![Recent reviews container](docs/readme-img/review-section.jpg)
 
 - The recent reviews container includes an image and a breif review of the intended real world customer. Showcasing the drivings schools success.
 - This was added to showcase what other students think of the driving school. To intice new students to join
@@ -78,7 +78,7 @@ The navigation has a simple layout that focuses on a simple design that it intua
 
 ### Footer
 
-![Footer Image](/assets/readme-img/footer-section.png)
+![Footer Image](docs/readme-img/footer-section.png)
 
 - In the footer the usefull links to students and future students are included.
 - Also included is links to the schools social media pages where they can find more content relating to the school.
@@ -86,7 +86,7 @@ The navigation has a simple layout that focuses on a simple design that it intua
 
 ### Lesson Cards 
 
-![Websites Lesson cards](/assets/readme-img/lesson-card.png)
+![Websites Lesson cards](docs/readme-img/lesson-card.png)
 
 - Lesson cards display a breif overview of what the school offers.
 - The intention is to tell the potential student what could happen during the lesson
@@ -94,20 +94,20 @@ The navigation has a simple layout that focuses on a simple design that it intua
 
 ### Video 
 
-![An instructional embedded youtube video](/assets/readme-img/video-container.jpg)
+![An instructional embedded youtube video](docs/readme-img/video-container.jpg)
 
 - An embedded youtube video giving a brief lesson on how to drive a car. This was implemented with the intention of giving potential students an idea of what is to come. 
 
 ### Lesson Pricing Cards 
 
-![Lesson pricing cards](/assets/readme-img/price-card.png)
+![Lesson pricing cards](docs/readme-img/price-card.png)
 
 - Lesson pricing cards are used to display the price of the lesson itself 
 - A brief peice of information about what the lesson entails
 
 ### Contact Form 
 
-![Websites contact form](/assets/readme-img/contact-card.png)
+![Websites contact form](docs/readme-img/contact-card.png)
 
 - The contact form was implemented to give the user of the site an easy way of contacting the school for potential lessons. Instead of having to go away to a seperate email application or call
 - It allows the driving school to collect all information required from the student to speed up the process of getting them on the road
@@ -163,26 +163,26 @@ During the course of the development of the website I also performed manual test
 
 ### CSS
 
-![CSS Jigsaw validator fail](/assets/readme-img/css%20validator.png)
+![CSS Jigsaw validator fail](docs/readme-img/css%20validator.png)
 - CSS fail
 
-![CSS Jigsaw Validator pass](/assets/readme-img/css%20pass.png)
+![CSS Jigsaw Validator pass](docs/readme-img/css%20pass.png)
 - CSS pas
 
 ### HTML
 
-![HTML w3c Validator Fail](/assets/readme-img/index-validator.png)
+![HTML w3c Validator Fail](docs/readme-img/index-validator.png)
 - HTML fail
 
-![HTML w3c Validator Pass](/assets/readme-img/w3c-validator.png)
+![HTML w3c Validator Pass](docs/readme-img/w3c-validator.png)
 - HTML pass
 
 ### Lighthouse
 
-![Lighthouse Desktop Performance](/assets/readme-img/lh-desktop.png)
+![Lighthouse Desktop Performance](docs/readme-img/lh-desktop.png)
 - Lighthouse desktop performance
 
-![Lighthouse Mobile Performance](/assets/readme-img/lh-mobile.png)
+![Lighthouse Mobile Performance](docs/readme-img/lh-mobile.png)
 - Lighthourse mobile Performance
 
 The performance is low on the mobile version due to a browser extension that is installed on google chrome. Further inspection also shows towards slow loading time for the images due to their varying sizes and different file sizes.
@@ -203,15 +203,15 @@ Deployment of the project was done by using Github Pages.
 
 - Step one is to load up the repo on the github website and click on the settings pannel
 
-<img alt="Deployment stage 1" src="assets/readme-img/deployment-1.png" height="300px" width="00px">
+<img alt="Deployment stage 1" src="docs/readme-img/deployment-1.png" height="300px" width="400px">
 
 - Step two is to go to the click on the pages panel on the left hand side
 
-<img alt="Deployment stage 2" src="assets/readme-img/deployment-2.png" height="300px" width="400px">
+<img alt="Deployment stage 2" src="docs/readme-img/deployment-2.png" height="300px" width="400px">
 
 - Step three is to select to deploy the page from the main folder ensuring that the root folder folder is also selected
 
-<img alt="Deployment stage 3" src="assets/readme-img/deployment-3.png" height="300px" width="400px">
+<img alt="Deployment stage 3" src="docs/readme-img/deployment-3.png" height="300px" width="400px">
 
 Link to live project - [First Class Pass - CI Project One](https://mrekyle.github.io/ci-project-1//)
 
